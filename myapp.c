@@ -5,6 +5,6 @@ int main(){
 
 	foo();
 	expe();
-
+	printf("dkdkdk");
 }
 
