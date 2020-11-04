@@ -7,7 +7,7 @@ void foo()
 	printf("hell I'm foo\n");
 }
 
-void expe();
+void expe()
 {
 
 	printf("I'm expe");
