@@ -4,6 +4,7 @@
 int main(){
 
 	foo();
+	expe();
 
 }
 

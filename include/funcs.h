@@ -1,3 +1,4 @@
+
 #ifndef __FUNCS_H__
 #define __FUNCS_H__
 
@@ -9,6 +10,9 @@ void expe()
 {
 	printf("my expe func");
 }
+
+void foo();
+void myex();
 
 
 #endif
